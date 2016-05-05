@@ -6,4 +6,4 @@ After finishing *Learn Enough Git to Be Dangerous*, you'll know enough Git to be
 
 Also, Michael Hartl is an excellent teacher.
 
-For more information on Git, see the [official Git documentation](https://git-scm.com)
+For more information on Git, see the [official Git documentation](https://git-scm.com).
